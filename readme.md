@@ -19,12 +19,7 @@ Before you begin, make sure you have the following prerequisites installed:
 1. **Clone the repository**: Clone the project's Git repository to your local machine.
 
    ```shell
-   git clone <repository_url>
-   ```
-2. **Navigate to the project directory**: Enter the directory where the project was cloned.
-
-   ```shell
-   cd <project_directory>
+   git clone https://github.com/gitone912/vendor_management_apis.git
    ```
 3. **Create a virtual environment**: Use Python's virtual environment to manage dependencies.
 
